@@ -1,0 +1,4 @@
+x = text
+
+if(x == text)
+  {print'Welcome'}
